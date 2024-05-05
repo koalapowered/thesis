@@ -91,6 +91,8 @@
       <workItem from="1714905204209" duration="13611000" />
       <workItem from="1714923583631" duration="566000" />
       <workItem from="1714924830319" duration="2592000" />
+      <workItem from="1714927470160" duration="1004000" />
+      <workItem from="1714928615199" duration="5489000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -148,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714910312588</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="actually valid validation now">
+      <option name="closed" value="true" />
+      <created>1714927485203</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714927485203</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +170,8 @@
     <MESSAGE value="creating simulated users to see the effect of number of categories, and number of movies on the recommendations - works now" />
     <MESSAGE value="created test for determining the overlap between the recommended movies and those that the recommender hasn't been provided with of the same user to see how well the recommender does" />
     <MESSAGE value="validating on a 80-20 split" />
-    <option name="LAST_COMMIT_MESSAGE" value="validating on a 80-20 split" />
+    <MESSAGE value="actually valid validation now" />
+    <option name="LAST_COMMIT_MESSAGE" value="actually valid validation now" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Thesis$Movielens.coverage" NAME="Movielens Coverage Results" MODIFIED="1713439134511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
