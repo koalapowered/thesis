@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f8bc19a-5d7a-4a20-9bdb-ea5c46446506" name="Changes" comment="created test for determining the overlap between the recommended movies and those that the recommender hasn't been provided with of the same user to see how well the recommender does">
+    <list default="true" id="3f8bc19a-5d7a-4a20-9bdb-ea5c46446506" name="Changes" comment="actually valid validation now">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ANN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ANN.ipynb" afterDir="false" />
     </list>
@@ -88,7 +88,9 @@
       <workItem from="1714650884450" duration="2051000" />
       <workItem from="1714664543173" duration="12895000" />
       <workItem from="1714893762417" duration="8622000" />
-      <workItem from="1714905204209" duration="5034000" />
+      <workItem from="1714905204209" duration="13611000" />
+      <workItem from="1714923583631" duration="566000" />
+      <workItem from="1714924830319" duration="2592000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -138,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714639947302</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="validating on a 80-20 split">
+      <option name="closed" value="true" />
+      <created>1714910312588</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714910312588</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,7 +159,8 @@
     <MESSAGE value="creating simulated users to see the effect of number of categories, and number of movies on the recommendations" />
     <MESSAGE value="creating simulated users to see the effect of number of categories, and number of movies on the recommendations - works now" />
     <MESSAGE value="created test for determining the overlap between the recommended movies and those that the recommender hasn't been provided with of the same user to see how well the recommender does" />
-    <option name="LAST_COMMIT_MESSAGE" value="created test for determining the overlap between the recommended movies and those that the recommender hasn't been provided with of the same user to see how well the recommender does" />
+    <MESSAGE value="validating on a 80-20 split" />
+    <option name="LAST_COMMIT_MESSAGE" value="validating on a 80-20 split" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Thesis$Movielens.coverage" NAME="Movielens Coverage Results" MODIFIED="1713439134511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
